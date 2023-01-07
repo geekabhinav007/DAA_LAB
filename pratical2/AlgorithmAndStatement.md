@@ -1,0 +1,1 @@
+# Implement merge sort algorithm and demonstrate divide and conquer technique.

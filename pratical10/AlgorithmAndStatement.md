@@ -1,0 +1,1 @@
+# Implement Boyer-Moore algorithm.
