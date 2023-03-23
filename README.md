@@ -1,6 +1,7 @@
 # DAA_LAB
 
 <!-- 2 and 4 Marks Questions  -->
+## Index
 
 [2 Marks and 4 Marks Questions](2_4_Marks/2_4.md)
 
