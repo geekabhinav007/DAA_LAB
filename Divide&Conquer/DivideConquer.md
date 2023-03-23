@@ -12,6 +12,15 @@ Divide and Conquer is a problem-solving paradigm used in computer science and ma
 > Time Complexity of Binary Search: O(log n)
 
 3. [Merge Sort](mergeSort.cpp)
+
+> Time Complexity of Merge Sort: O(n log n)
+
 4. [Quick Sort](QuickSort.cpp)
+
+> Time Complexity of Quick Sort: O(n log n)
+
 5. [Finding Maximum and Minimum Elements in an Array](FindingMax_and_Min.cpp)
+
+> Time Complexity of Finding Maximum and Minimum Elements in an Array: O(n)
+
 6. **Strassen's Matrix Multiplication
