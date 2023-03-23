@@ -143,3 +143,4 @@ Average Case = sum of all possible case time complexity / number of cases
 
 > Note: Cases are not related to asympotic notations.Base Case and Worse case are not related to omega and theta notation. We can represent best by any notation and worst by any notation.
 
+## Recurrence Relation
