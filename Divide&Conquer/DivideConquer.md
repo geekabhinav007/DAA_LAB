@@ -7,6 +7,9 @@ Divide and Conquer is a problem-solving paradigm used in computer science and ma
 ### Algorithm based on Divide and Conquer
 
 1. [Binary Search](binarySearch.cpp)
+
+> Time Complexity of Binary Search: O(log n)
+
 2. [Recursive Binary Search](RecursiveBinarySearch.cpp)
 
 > Time Complexity of Binary Search: O(log n)
@@ -17,7 +20,7 @@ Divide and Conquer is a problem-solving paradigm used in computer science and ma
 
 4. [Quick Sort](QuickSort.cpp)
 
-> Time Complexity of Quick Sort: O(n log n)
+> Time Complexity of Quick Sort: Best Case: O(n log n) --> When the pivot is always the middle element of the array and Worst Case: O(n^2) --> (When the array is already sorted.)
 
 5. [Finding Maximum and Minimum Elements in an Array](FindingMax_and_Min.cpp)
 
