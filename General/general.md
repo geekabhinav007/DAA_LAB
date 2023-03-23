@@ -26,5 +26,5 @@ An algorithm should be:
 
 - **Effectiveness**: The algorithm should be effective in terms of time and space.
 
-## What is the difference between a recursive algorithm and a non-recursive algorithm?
+## 
 
