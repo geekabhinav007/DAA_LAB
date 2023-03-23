@@ -96,3 +96,39 @@ to computed again.
 3. Recursion is usually implemented using recursion. Tabulation is usually implemented using iteration.
 
 4. Recursion is usually implemented using a stack. Tabulation is usually implemented using an array.
+
+## principal of optimality
+
+1. If a problem has optimal substructure, then it has an optimal solution.
+
+2. If a problem has overlapping subproblems, then it can be solved using dynamic programming.
+
+## What is the difference between dynamic programming and backtracking?
+
+1. Dynamic programming is bottom-up approach. Backtracking is top-down approach.
+
+2. Dynamic programming is iterative. Backtracking is recursive.
+
+3. Dynamic programming is usually implemented using iteration. Backtracking is usually implemented using recursion.
+
+4. Dynamic programming is usually implemented using a queue. Backtracking is usually implemented using a stack.
+
+## What is the difference between dynamic programming and branch and bound?
+
+1. Dynamic programming is bottom-up approach. Branch and bound is top-down approach.
+
+2. Dynamic programming is iterative. Branch and bound is recursive.
+
+3. Dynamic programming is usually implemented using iteration. Branch and bound is usually implemented using recursion.
+
+4. Dynamic programming is usually implemented using a queue. Branch and bound is usually implemented using a stack.
+
+## What is the difference between dynamic programming and brute force?
+
+1. Dynamic programming is bottom-up approach. Brute force is top-down approach.
+
+2. Dynamic programming is iterative. Brute force is recursive.
+
+3. Dynamic programming is usually implemented using iteration. Brute force is usually implemented using recursion.
+
+4. Dynamic programming is usually implemented using a queue. Brute force is usually implemented using a stack.
