@@ -6,7 +6,7 @@ Divide and Conquer is a problem-solving paradigm used in computer science and ma
 
 ### Algorithm based on Divide and Conquer
 
-1. Binary Search
+1. [Binary Search](Divide&Conquer/binarySearch.cpp)
 1. Merge Sort
 1. Quick Sort
 1. Finding Maximum and Minimum Elements in an Array
