@@ -26,5 +26,97 @@ An algorithm should be:
 
 - **Effectiveness**: The algorithm should be effective in terms of time and space.
 
-## 
+## Time Complexity of an Algorithm having While Loop, Do-While Loop and Conditional Statements
 
+- **While Loop**: The time complexity of the following while loop is O(n).
+
+```java
+int i = 0;
+while(i < n){
+    // do something
+    i++;
+}
+```
+
+- **Do-While Loop**: The time complexity of the following do-while loop is O(n).
+
+```java
+int i = 0;
+do{
+    // do something
+    i++;
+}while(i < n);
+```
+
+- **Conditional Statements**: The time complexity of the following conditional statement is O(1).
+
+```java
+if(i < n){
+    // do something
+}
+```
+
+## Types of Time Functions
+
+- **Constant Time**: The time complexity of the following code snippet is O(1).
+
+```java
+int i = 0;
+while(i < 100){
+    // do something
+    i++;
+}
+```
+
+- **Linear Time**: The time complexity of the following code snippet is O(n).
+
+```java
+int i = 0;
+while(i < n){
+    // do something
+    i++;
+}
+```
+
+- **Quadratic Time and Cubic Time**: The time complexity of the following code snippet is O(n<sup>2</sup>) or O(n<sup>3</sup>) e.t.c.
+
+```java
+for(int i = 0; i<n; i++){
+    for(int j = 0; j<n; j++){
+        // do something
+    }
+}
+```
+
+```java
+for(int i = 0; i<n; i++){
+    for(int j = 0; j<n; j++){
+        for(int k = 0; k<n; k++){
+            // do something
+        }
+    }
+}
+```
+
+- **Logarithmic Time**: The time complexity of the following code snippet is O(log n) or O(log<sub>2</sub>(n)).
+
+```java
+
+int i = 0;
+while(i < n){
+    // do something
+    i = i * 2;
+}
+```
+
+- **Exponential Time**: The time complexity of the following code snippet is O(2<sup>n</sup>) or O(3<sup>n</sup>) or O(n<sup>n</sup>)  .
+
+```java
+for(int i = 0; i<2<sup>n</sup>; i++){
+    // do something
+}
+```
+
+> Note: 1 < log(n) < $\sqrt{n}$ < n < nlog(n) < n<sup>2</sup> < n<sup>3</sup> < 2<sup>n</sup> < 3<sup>n</sup> < n<sup>n</sup>
+
+![img](https://adrianmejia.com/images/time-complexity-examples.png)
