@@ -140,3 +140,6 @@ for(int i = 0; i<2<sup>n</sup>; i++){
 > Average case analysis is not always possible. It is possible only when the probability of occurrence of each input is known.
 
 Average Case = sum of all possible case time complexity / number of cases
+
+> Note: Cases are not related to asympotic notations.Base Case and Worse case are not related to omega and theta notation. We can represent best by any notation and worst by any notation.
+
