@@ -120,3 +120,23 @@ for(int i = 0; i<2<sup>n</sup>; i++){
 > Note: 1 < log(n) < $\sqrt{n}$ < n < nlog(n) < n<sup>2</sup> < n<sup>3</sup> < 2<sup>n</sup> < 3<sup>n</sup> < n<sup>n</sup>
 
 ![img](https://adrianmejia.com/images/time-complexity-examples.png)
+
+## properties of Asymptotic Notations
+
+- **Constant Factor**: The constant factor is ignored in asymptotic analysis.
+
+- **Lower Order Terms**: The lower order terms are ignored in asymptotic analysis.
+
+- **Higher Order Terms**: The higher order terms are considered in asymptotic analysis.
+
+## Best Case, Worst Case and Average Case Analysis
+
+- **Best Case**: The best case analysis is the analysis of the best possible input to an algorithm.
+
+- **Worst Case**: The worst case analysis is the analysis of the worst possible input to an algorithm.
+
+- **Average Case**: The average case analysis is the analysis of the average input to an algorithm.
+
+> Average case analysis is not always possible. It is possible only when the probability of occurrence of each input is known.
+
+Average Case = sum of all possible case time complexity / number of cases
